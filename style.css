@@ -17,14 +17,14 @@
     margin: 10px;
     padding: 10px 20px;
     background-color: blue;
-    color: greenyellow;
+    color: black;
     border: none;
     border-radius: 5px;
     cursor: pointer;
   }
   
   button:hover {
-    background-color: yellow;
+    background-color: white;
   }
   
   #result {
